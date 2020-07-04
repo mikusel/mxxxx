@@ -32,7 +32,7 @@ const search = require('yt-search');
 const configs = require("./configs.json");
 const timestamp = require("console-timestamp");
 var botConfigs = {
-    token: "NzE3MDU2NDA5Mzk2ODM4NDAw.Xv8uOg.TdgHLQZB0mJrl0PTug6KqjM_5W0",
+    token: "",
     prefix: "mix!",
     gameStatus: "BETA nowego silnika",
     statusType: "WATCHING",
